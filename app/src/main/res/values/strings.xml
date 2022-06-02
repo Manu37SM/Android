@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_your_city_name">enter_your_city_name</string>
+    <string name="pp">—</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temperature">Min Temperature</string>
+    <string name="pp2">—</string>
+    <string name="max_temperature">Max Temperature</string>
+    <string name="ppp">—</string>
+    <string name="pppp">—</string>
+    <string name="sunset">Sunset</string>
+    <string name="ppppp">—</string>
+</resources>
